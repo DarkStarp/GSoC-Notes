@@ -11,3 +11,8 @@ $ rtems-test --rtems-bsp=erc32-run --rtems-tools=$HOME/development/rtems/5 ~/dev
 * The options starting with `--` are actually arguments to the `rtems-test`.
 * The **only** option not starting with `--` is the path to the directory, where the executables are present, on which tests are to be performed.
 ---
+if there is error and all tests fail then try using --rtems-bsp=erc32-sis
+ ~~~~
+ $ rtems-test --rtems-bsp=erc32-sis --rtems-tools=$HOME/development/rtems/5 ~/development/rtems/kernel/erc32/sparc-rtems5/c/erc32/testsuites/samples
+ ~~~~
+ 
