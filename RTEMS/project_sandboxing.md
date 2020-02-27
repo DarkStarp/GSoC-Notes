@@ -2,7 +2,7 @@
 
 ---
 ~~~~
-Home Folder (~): /home/varodek
+Home Folder (~): /home/eshan
 
 ~/development
 	|
@@ -13,6 +13,7 @@ Home Folder (~): /home/varodek
 	|	|____/kernel
 	|		|____/erc32 			#- contains RTEMS kernel for SPARC
 	|		|____/xilinx_zynq_a9_qemu 	#- contains RTEMS kernel for ARM
+	|               |____/rv32imac                  #-contains RTEMS kernel for RISCV    
 	|		|____/rtems			#- rtems clone from git repository
 	|
 	|
