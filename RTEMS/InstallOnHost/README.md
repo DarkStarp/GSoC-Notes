@@ -6,4 +6,5 @@
 
 - Reference were taken from links:
 	* https://adityupa.wordpress.com/
-	*https://medium.com/my-gsoc-2019-journey/build-rtems-for-sparc-and-arm-architecture-using-same-rsb-e969c82fd921
+	
+	* https://medium.com/my-gsoc-2019-journey/build-rtems-for-sparc-and-arm-architecture-using-same-rsb-e969c82fd921
