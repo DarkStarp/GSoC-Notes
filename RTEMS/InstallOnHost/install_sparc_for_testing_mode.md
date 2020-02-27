@@ -18,7 +18,7 @@ $ ../source-builder/sb-set-builder --list-bsets
 
 ### Build Toolchain for SPARC using RSB
 ~~~~
-$ ../source-builder/sb-set-builder --prefix=/home/varodek/development/rtems/5 5/rtems-sparc
+$ ../source-builder/sb-set-builder --prefix=/home/eshan/development/rtems/5 5/rtems-sparc
 ~~~~
 
 ---
@@ -46,9 +46,9 @@ $ mkdir erc32
 $ cd erc32
 ~~~~
 ~~~~
-$ /home/varodek/development/rtems/kernel/rtems/configure --prefix=/home/varodek/development/rtems/5 --enable-maintainer-mode --target=sparc-rtems5 --enable-rtemsbsp=erc32 --enable-tests --enable-posix --disable-networking --enable-cxx
+$ /home/eshan/development/rtems/kernel/rtems/configure --prefix=/home/eshan/development/rtems/5 --enable-maintainer-mode --target=sparc-rtems5 --enable-rtemsbsp=erc32 --enable-tests --enable-posix --disable-networking --enable-cxx
 ~~~~
-### Build using 2 cores and insall
+### Build using 2 cores and install
 ~~~~
 $ make -j 2
 $ make install
