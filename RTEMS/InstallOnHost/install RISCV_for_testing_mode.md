@@ -1,4 +1,4 @@
-# Set up RTEMS ARM BSP on Host OS
+# Set up RTEMS RISC-V BSP on Host OS
 
 #### Note: Make sure you have `python 2.7` (devloper version), `python 3` and `pax` package installed on your system.
 
@@ -46,7 +46,7 @@ $ mkdir rv32imac
 $ cd rv32imac
 ~~~~
 ~~~~
-$ /home/eshan/development/rtems/kernel/rtems/configure --prefix=/home/eshan/development/rtems/5 --enable-maintainer-mode --target=arm-rtems5 --enable-rtemsbsp=xilinx_zynq_a9_qemu --enable-tests --enable-posix --disable-networking --enable-cxx
+$ /home/eshan/development/rtems/kernel/rtems/configure --prefix=/home/eshan/development/rtems/5 --enable-maintainer-mode --target=riscv-rtems5 --enable-rtemsbsp=rv32imac --enable-tests --enable-posix --disable-networking --enable-cxx
 ~~~~
 ### Build using 2 cores and install
 ~~~~
