@@ -9,8 +9,8 @@ This Repo conatins all the notes which I have made while experimenting and explo
 ###### I have no intensions to harm anyone's Intellectual Property 
 ###### I have no intention to copy the content of any site or copy the work of any other author. If I had to reference any content, Citation is properly done on that specific note.
 
-## [Notes on GIT]()
+## [Notes on GIT](https://eshandhawan51.github.io/GSoC-Notes/Git )
 
-## [Notes on RTEMS]()
+## [Notes on RTEMS](https://eshandhawan51.github.io/GSoC-Notes/RTEMS)
 
-## [Notes on Newlib]()
+## [Notes on Newlib](https://eshandhawan51.github.io/GSoC-Notes/Newlib)
