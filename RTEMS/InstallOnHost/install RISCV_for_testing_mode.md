@@ -16,7 +16,7 @@ $ cd rtems
 $ ../source-builder/sb-set-builder --list-bsets
 ~~~~
 
-### Build Toolchain for ARM using RSB
+### Build Toolchain for RISC-V using RSB
 ~~~~
 $ ../source-builder/sb-set-builder --prefix=/home/eshan/development/rtems/5 5/rtems-riscv
 ~~~~
