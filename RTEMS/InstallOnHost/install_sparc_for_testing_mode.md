@@ -37,7 +37,7 @@ $ git clone git://git.rtems.org/rtems.git rtems
 ~~~~
 $ export PATH=$HOME/development/rtems/5/bin:$PATH 
 $ cd rtems
-$ ./bootstrap -c && $HOME/development/rtems/rsb/source-builder/sb-bootstrap
+$ ./bootstrap -c && ./rtems-bootstrap
 ~~~~
 ### Building a BSP
 ~~~~
