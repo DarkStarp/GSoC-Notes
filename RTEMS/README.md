@@ -6,6 +6,7 @@
 #### [Steps to setup RTEMS-testing repo](./setting-up-rtems-testing.md)
 #### [Steps to run a Testsuite](./run_a_testsuite.md) 
 #### [Steps to run tests](./run_tests.md) 
+#### [Steps to Setup RTEMS-Testing](./setting-up-rtems-testing.md)
 
 
 ##### References
