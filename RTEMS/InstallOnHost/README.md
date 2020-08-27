@@ -1,6 +1,6 @@
 # Installation steps For :
 
-### [RISCV 32](./install%20RISCV_for_testing_mode.md)
+### [RISCV 32](./install_RISCV_for_testing_mode.md)
 ### [ARM](./install_arm_for_testing_mode.md)
 ### [SPARC](./install_sparc_for_testing_mode.md)
 
